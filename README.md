@@ -62,9 +62,3 @@ Farmers often struggle to access markets, leading to lower income due to depende
 - 📲 Push notifications for order status updates
 - 📊 Analytics dashboard for farmers
 
----
-
-## 📸 Demo
-
-🎥 [Watch the demo video here](#) *(Add your video link here)*
-
